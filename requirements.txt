@@ -1,0 +1,3 @@
+dnspython
+email-validator
+pytest
